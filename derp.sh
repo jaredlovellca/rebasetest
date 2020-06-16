@@ -11,3 +11,4 @@ die(){
 
 [ -f $CONFIG ] || die "unable to find my conf file, $CONFIG"
 
+#some  changes 17105
